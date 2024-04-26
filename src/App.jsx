@@ -9,7 +9,7 @@ function App() {
       <Header />
       <main>
       <CoreConcepts/>
-      <Example/>
+      <Example />
         <h2>Time to get started!</h2>
       </main>
     </>
