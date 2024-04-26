@@ -1,4 +1,4 @@
-export default function({children,button,ButtonsContainer}){
+export default function({children,button,ButtonsContainer="menu"}){
 // const ButtonsContainer=buttonsContainer;
 return <>
  <ButtonsContainer>
